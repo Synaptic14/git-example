@@ -2,6 +2,6 @@
 
 $test = "test";
 
-$test2 = "test2";
+$test2 = "test20";
 
-$test3 = "test4";
+$test3 = "test40";
